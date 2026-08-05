@@ -7,7 +7,7 @@ manifest:
   projects:
     - name: zmk
       remote: zmkfirmware
-      revision: main
+      revision: v0.3
       import: app/manifest.yml
     - name: miryoku_zmk
       remote: wittyrascal
