@@ -8,7 +8,7 @@ manifest:
     - name: zmk
       remote: zmkfirmware
       revision: main
-      import: app/manifest/zephyr/west.yml
+      import: app/manifest.yml
     - name: miryoku_zmk
       remote: wittyrascal
       revision: master
